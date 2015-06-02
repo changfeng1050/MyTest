@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_start">运行</string>
+    <string name="button_exit">退出</string>
+    <string name="elapse_time">运行时间</string>
+    <string name="total_memory">总运行内存</string>
+    <string name="available_memory">可用运行内存</string>
+    <string name="wifi_ssid">Wi-Fi</string>
+    <string name="ip">IP地址</string>
+    <string name="wifi_rssi">Wi-Fi信号强度</string>
+    <string name="net_speed">网络速度</string>
+</resources>
